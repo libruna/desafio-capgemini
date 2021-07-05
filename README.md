@@ -14,6 +14,7 @@ Para baixar, compilar e executar o programa é necessário ter instalado os segu
 | DevC++ | 5.11 ou superior |
 | MinGW | 3.4.2 ou superior |
 | Git | 2.32.0 ou superior |
+
 O programa faz uso de comandos de sistema específicos do Windows, sendo necessária a modificação do código no arquivo `main.cpp` para permitir compatibilidade com sistemas Linux/MacOS.
 
 ## Instalação
