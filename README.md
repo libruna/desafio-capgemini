@@ -21,7 +21,7 @@ O programa faz uso de comandos de sistema específicos do Windows, sendo necess�
 ### Obtendo os arquivos
 Para obter os arquivos, basta apenas executar no terminal o comando para clonar o repositório no diretório de preferência:
 ```sh
-git clone https://github.com/libruna/ivulga-tudo.git
+git clone https://github.com/libruna/divulga-tudo.git
 ```
 Ou ir até o link https://github.com/libruna/divulga-tudo e baixar os arquivos do repositório pelas opções __Code > Download ZIP__
 ### Execução
