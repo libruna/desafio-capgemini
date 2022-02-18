@@ -21,9 +21,9 @@ O programa faz uso de comandos de sistema específicos do Windows, sendo necess�
 ### Obtendo os arquivos
 Para obter os arquivos, basta apenas executar no terminal o comando para clonar o repositório no diretório de preferência:
 ```sh
-git clone https://github.com/libruna/desafio-capgemini.git
+git clone https://github.com/libruna/ivulga-tudo.git
 ```
-Ou ir até o link https://github.com/libruna/desafio-capgemini e baixar os arquivos do repositório pelas opções __Code > Download ZIP__
+Ou ir até o link https://github.com/libruna/divulga-tudo e baixar os arquivos do repositório pelas opções __Code > Download ZIP__
 ### Execução
 Estando no Windows, preferencialmente Windows 10, é necessário apenas executar o arquivo ```Projeto1.exe``` para iniciar o programa. Para realizar edições no código, é necessário configurar a IDE DevC++.
 
